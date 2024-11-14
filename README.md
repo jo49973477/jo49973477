@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/jo49973477-20C997?style=for-the-badge&logo=velog&logoColor=white">
 </a>
 
-You can learn various well-arranged knowledges and skills what I learned, especially machine learning.
+You can learn various well-arranged knowledges and skills what I learned, especially machine learning. The essay or novel will be uploaded in this page.
 The English translation will be updated soon.
 
 ### Contact
