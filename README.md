@@ -19,7 +19,7 @@ The English translation will be updated soon.
 
 ### Contact
 
- <img src="https://img.shields.io/badge/jo49973477@naver.com-76BB21?style=plastic&logo=mailbox.org&logoColor=white"> <img src="https://img.shields.io/badge/hospitaloflove123@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"> <a href = "https://www.instagram.com/propane38/" ><img src="https://img.shields.io/badge/propane38-E4405F?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/propane38/"></a>
+ <img src="https://img.shields.io/badge/jo49973477@naver.com-76BB21?style=plastic&logo=mailbox.org&logoColor=white"> <img src="https://img.shields.io/badge/hospitaloflove123@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"> <a href = "https://www.instagram.com/propane38/" ><img src="https://img.shields.io/badge/propane38-E4405F?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/propane38/"></a> <a href = "https://www.linkedin.com/in/yeongyoo-jo-491b472a4/" ><img src="https://img.shields.io/badge/Yeongyoo Jo-0A66C2?style=plastic&logo=linkedin&logoColor=white"></a>
 
 **⚠️CAUTION⚠️:** Formally, I receive check the mail with using account <img src="https://img.shields.io/badge/jo49973477@naver.com-76BB21?style=plastic&logo=mailbox.org&logoColor=white">, and <img src="https://img.shields.io/badge/hospitaloflove123@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"> is used to connect google-related accounts. Please contact me with the email URL  <img src="https://img.shields.io/badge/jo49973477@naver.com-76BB21?style=plastic&logo=mailbox.org&logoColor=white"> if you wish a rapid response.
 
