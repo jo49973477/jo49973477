@@ -1,7 +1,7 @@
 # HALLO, DIE WELT!
 
 > Es irrt der Mensch, solang' er strebt.
->  *Goethe's Faust*
+>  *-Goethe's Faust*
 
 ## Introduction
 - **Name:** Yeongyoo Jo (조영유, 趙永濡)
