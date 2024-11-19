@@ -1,7 +1,7 @@
 # HALLO, DIE WELT!
 
-> Sometimes it is the people no one can imagine anything of who do the things that no one can imagine.
->  *-Alan Turing*
+> Es irrt der Mensch, solang' er strebt.
+>  *Goethe's Faust*
 
 ## Introduction
 - **Name:** Yeongyoo Jo (조영유, 趙永濡)
