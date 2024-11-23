@@ -44,11 +44,11 @@ The English translation will be updated soon.
   </tr>
   <tr>
    <td align = "center" >
-    <a href="https://ee.inha.ac.kr/ee/index.do"><img src="pics/elec.png" width="60px;" alt="großinha" align="center"/> </a><br />
+    <a href="https://ee.inha.ac.kr/ee/index.do"><img src="pics/elec.png" width="60px;" alt="최강" align="center"/> </a><br />
     Electronics Engineering
    </td>
    <td align = "center" >
-   <a href="https://philosophy.inha.ac.kr/philosophy/index.do"><img src="https://i.namu.wiki/i/u-YqYS8zo8qvkgYfCYOerdjpA6btRz-kwNdZK1iPAB0DaPp-LLW-8eaExLJ6ed3emHKjqPFMCk4K2FqWc8FeLKJtPG_0tsXf7TMJvxqSWSFZqQl0ZFuv90BEooHwFutUFJ1UzlOAfP4Z4v8QwWzuSw.webp" width="60px;" alt="großinha" align="center"/> </a><br/>
+   <a href="https://philosophy.inha.ac.kr/philosophy/index.do"><img src="https://i.namu.wiki/i/vf-EgSt7lAJ1vV_a7Yv7XiObc_FOoiltTvbDueNDGyj10FWtMLqaqGNt6CLfSHUdesq2e36jJ1EEUARt8AUjPbDDBGOcav9C5zBu2nEaD3iwZ0mI56qubJ993lRt9tkkwwZ4RTru81T4uvLWgmPU6Q.webp" width="60px;" alt="불" align="center"/> </a><br/>
    Philosophy
    </td>
    <td>
