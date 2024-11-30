@@ -1,7 +1,7 @@
 # HALLO, DIE WELT!
 
-> Es irrt der Mensch, solang' er strebt.
->  *-Goethe's Faust*
+> Yer know when ye start thinkin’, ‘Nah, I can’t do that,’ yer puttin’ up a wall for yerself.
+>  *<a href = "https://www.youtube.com/watch?v=LbdhUTJBxdQ">-Lilpa, Isegye Idol</a>*
 
 ## Introduction
 - **Name:** Yeongyoo Jo (조영유, 趙永濡)
