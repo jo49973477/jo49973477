@@ -1,6 +1,6 @@
 # HALLO, DIE WELT!
 
-> Yer know when ye start thinkin’, ‘Nah, I can’t do that,’ yer puttin’ up a wall for yerself.
+> Y’know, the moment ye think, ‘Oh, I can’t do that,’ you’re buildin’ a wall for yourself, yeah? Like, people go the way they think, don’t they? If ye’re sittin’ there thinkin’, ‘Oh, you’re just born with it, I’ll never be like that,’ then you’ve already lost, haven’t ye? You’ve gone and put that wall up yourself, like. Sayin’, ‘I’ll never get past this, no matter what.’ But how’re ye gonna get over it if ye’ve already given up? Even if everyone else gives up on ye, you can’t give up on yourself, love.
 >  *<a href = "https://www.youtube.com/watch?v=LbdhUTJBxdQ">-Lilpa, Isegye Idol</a>*
 
 ## Introduction
