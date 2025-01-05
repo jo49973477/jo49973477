@@ -4,7 +4,7 @@
 >  *<a href = "https://www.youtube.com/watch?v=LbdhUTJBxdQ">-Lilpa, Isegye Idol</a>*
 
 ## Introduction
-- **Name:** Yeongyoo Jo (조영유, 趙永濡)
+- **Name:** Yeongyoo Jo (조영유, 趙永濡), Christopher
 - **Pronoun:** ~~oppa~~ he/him 
 - **Birth:** 08/Jun/2000
 - **Language:** Korean(Mother Language), English, Deutsch(Learning)
