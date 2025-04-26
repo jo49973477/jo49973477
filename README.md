@@ -8,6 +8,7 @@
 - **Pronoun:** ~~oppa~~ he/him 
 - **Birth:** 08/Jun/2000
 - **Language:** Korean(Mother Language), English, Deutsch(Learning)
+- **Sexual Orientation:** bisexual
 
 ### Opened Personal Space
 <a href = "https://velog.io/@jo49973477/posts">
