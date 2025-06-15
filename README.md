@@ -1,7 +1,7 @@
 # HALLO, DIE WELT!
 
-> I hope you guys also can carve out your own happiness in the world. Find your own slice of happiness. Everybody's success looks different.
->  *-Amelia Watson, Chief Analyst, Canadian Royal Canadian Mounted Police*
+> Seeking what is true is not seeking what is desirable. If in order to elude the anxious question: ‘What would life be?’ one must, like the donkey, feed on the roses of illusion, then the absurd mind, rather than resigning itself to falsehood, prefers to adopt fearlessly Kierkegaard’s reply: ‘despair'.
+> *-Albert Camus, The Myth of Sisyphus and Other Essays*
 
 ## Introduction
 - **Name:** Yeongyoo Jo (조영유, 趙永濡), Christopher
