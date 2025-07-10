@@ -24,7 +24,7 @@ The English translation will be updated soon.
 **⚠️CAUTION⚠️:** Formally, I receive check the mail with using account <img src="https://img.shields.io/badge/jo49973477@naver.com-76BB21?style=plastic&logo=mailbox.org&logoColor=white">, and <img src="https://img.shields.io/badge/hospitaloflove123@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white"> is used to connect google-related accounts. Please contact me with the email URL  <img src="https://img.shields.io/badge/jo49973477@naver.com-76BB21?style=plastic&logo=mailbox.org&logoColor=white"> if you wish a rapid response.
 
 ## C.V.
-[📄 CV Document](https://github.com/jo49973477/jo49973477/CV_Yeongyoo_Jo.pdf)
+[📄 CV Document](https://github.com/jo49973477/jo49973477/blob/main/CV_Yeongyoo_Jo.pdf)
 
 
 ## Belongings
